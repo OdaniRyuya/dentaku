@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.wrapper{
+    width: 500px;
+    p{
+        background-color: #000;
+    }
+    button{
+        height: 20px;
+        width: 60px;
+        margin-bottom: 10px;
+        border: #000 1px solid;
+        border-radius: 3px;
+    }
+}

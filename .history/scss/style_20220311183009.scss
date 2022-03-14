@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+html {}
+
+body {
+    position: relative;
+}
+
+a {
+    color: #000;
+}
+
+.timer {
+    display: flex;
+}
+
+.buttons {
+    a {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        vertical-align: middle;
+        background-color: lightgray;
+        border: #000 solid 1px;
+        display: inline-block;
+        width: 100px;
+        height: 60px;
+        text-align: center;
+
+    }
+}

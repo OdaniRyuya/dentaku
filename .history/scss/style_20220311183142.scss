@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+a {
+    color: #000;
+    font-weight: bold;
+}
+
+.timer {
+    display: flex;
+}
+
+.buttons {
+    p {
+        vertical-align: middle;
+        background-color: lightgray;
+        border: #000 solid 1px;
+        display: inline-block;
+        width: 100px;
+        padding: 20px 0px;
+        text-align: center;
+
+    }
+}

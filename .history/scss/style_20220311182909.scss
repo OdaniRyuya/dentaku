@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+html {}
+
+a {
+    color: #000;
+}
+
+.timers{
+    display: flex;
+}
+
+.buttons {
+    a{
+        vertical-align: middle;
+        background-color: lightgray;
+        border: #000 solid 1px;
+        display: inline-block;
+        width: 100px;
+        height: 60px;
+        align-items: center;
+        text-align: center;
+        
+    }
+}
